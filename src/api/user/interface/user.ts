@@ -1,4 +1,4 @@
 export interface user {
-    email:string;
-    userName: string;
+  email: string;
+  userName: string;
 }
